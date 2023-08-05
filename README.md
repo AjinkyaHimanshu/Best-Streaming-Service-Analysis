@@ -8,7 +8,7 @@ In this Data VIsualization Project, the various aspects related to service platf
 ![Logo](https://blog.ipleaders.in/wp-content/uploads/2021/08/what-is-ott-platform-best-10-ott-platforms-in-india-1613237548.jpg)
 
 ## 🚀 About Me
-I'm an Automation Developer upskilling myself in Full Data Science...
+I'm a Data Scientist upskilling myself in Full Stack Data Science...
 
 
 # Hi, I'm Himanshu! 👋
